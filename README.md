@@ -13,4 +13,5 @@ This document helps explain how to get Windows 98 running as a virtual machine, 
 4) Next comes the harder part of how to transfer files to and from the virtual Win98 - follow https://www.youtube.com/watch?v=WDo4079o8qs to set up network file sharing
 5) Next download the cartridge creator program from https://trastero.speccy.org/cosas/droy/zxflash/zxflashcart_e.htm#descargas
 6) Unzip the creator program and transfer to the Win98 PC. You need to run the VB runtime libray first and then the program
-7) Now close the program and set 
+7) Now close the program and set up the config files with the folder for saving the rom file and for opening rom files.
+8) If correctly working the program should look like the following. Double clicking on an .SNA will add it to the cartridge rom after you enter a title and when you press Create Cart it should report that it has saved the file.
