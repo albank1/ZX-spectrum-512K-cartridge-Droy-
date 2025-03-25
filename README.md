@@ -20,4 +20,7 @@ This document helps explain how to get Windows 98 running as a virtual machine, 
 ![Creator2](https://github.com/user-attachments/assets/b7ee3ec2-d81d-447c-971d-caf20a7aee85)
 ![Creator3](https://github.com/user-attachments/assets/0cf799a7-db9b-4301-ac12-4fa643a2c193)
 
-I have uploaded an example of a created rom which contains a variety of games.
+I have uploaded an example of a created rom which contains a variety of games. See below for the list of games:
+![Menu](https://github.com/user-attachments/assets/44922b32-67f7-4749-ab0e-f9749e9b3abf)
+
+I have done some more digging into the ROM and found that the Menu is stored as ascii characters from about $03a65
